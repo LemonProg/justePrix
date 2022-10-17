@@ -1,0 +1,75 @@
+html, body {
+  background-color: #232020;
+  min-width: 500px;
+  
+}
+
+
+header {
+  color: #ff7315;
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 35px;
+}
+
+#instructions {
+  color: white;
+}
+
+.instruction {
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.plus {
+  background-color: #f67280;
+}
+
+.moins {
+  background-color: #ffa372;
+}
+
+.fini {
+  background-color : #0c9463;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  color: white;
+  cursor: pointer;
+}
+
+
+#Scoreboard {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 5px;
+}
+
+button {
+  color: white;
+  border: none;
+}
+
+
+#pseudo {
+  margin-bottom: 15px;
+}
+
+i {
+  color: #8d8d8d;
+  margin-right: 5px;
+}
+
+form {
+  margin: 20px;
+}
+
